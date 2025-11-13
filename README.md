@@ -10,6 +10,9 @@ Here is the PyTorch implementation of the EmoHEAL model. EmoHEAL is a lightweigh
 5. TCN+Transformer Encoder
 6. ResNet + GRU Fusion
 
+# Publication link: 
+https://ieeexplore.ieee.org/document/10784695
+
 # Dataset
 You can request the dataset from [K-Emocon](https://zenodo.org/records/3931963). Place the dataset in the `dataset` folder.
 
